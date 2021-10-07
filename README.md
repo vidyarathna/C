@@ -34,9 +34,9 @@ C programs
 
 9.C Program to Swap Two Numbers
 
-   -Swap Numbers Using Temporary Variable
+      -Swap Numbers Using Temporary Variable
    
-   -Swap Numbers Without Using Temporary Variables
+      -Swap Numbers Without Using Temporary Variables
    
    
    
